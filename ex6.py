@@ -7,4 +7,8 @@ print (x)
 
 print (y)
 
+b="hello world!"
+c="my life is wonderful!"
+
+print(b+c)
 
